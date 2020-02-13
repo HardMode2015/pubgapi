@@ -1,5 +1,5 @@
 {
-    "name": "hardmode/pubgapi",
+    "name": "hardmode2015/pubgapi",
     "description": "A PUBG Developer API Wrapper for PHP and Laravel",
     "version": "0.2.6",
     "type": "library",
