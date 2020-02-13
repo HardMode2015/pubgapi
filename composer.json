@@ -16,10 +16,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "HardMode\\Pubgapi\\PubgApiServiceProvider"
+                "hardmode2015\\pubgapi\\PubgApiServiceProvider"
             ] ,
             "aliases": {
-                "PubgApi": "HardMode\\Pubgapi\\Facades\\PubgApi"
+                "PubgApi": "hardmode2015\\pubgapi\\Facades\\PubgApi"
             }
         }
     },
