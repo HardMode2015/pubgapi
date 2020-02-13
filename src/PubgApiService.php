@@ -1,9 +1,9 @@
 <?php
 
-namespace HardMode\Pubgapi;
+namespace hardmode2015\pubgapi;
 
 use IlluminateAgnostic\Collection\Support\Collection;
-use HardMode\PubgapiBaseService;
+use hardmode2015\PubgapiBaseService;
 
 
 class PubgApiService extends BaseService
