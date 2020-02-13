@@ -4,7 +4,7 @@
 
 ## Installation 
 
-` composer require rkmaier/pubgapi `
+` composer require hardmode/pubgapi `
 
 ### Laravel 5.5+ Integration
 Laravel Pacakage discovery should take care of it
