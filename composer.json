@@ -1,0 +1,34 @@
+{
+    "name": "hardmode/pubgapi",
+    "description": "A PUBG Developer API Wrapper for PHP and Laravel",
+    "version": "0.2.6",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0",
+        "ixudra/curl": "6.*",
+        "pragmarx/ia-collection": "6.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rkmaier\\Pubgapi\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HardMode\\Pubgapi\\PubgApiServiceProvider"
+            ] ,
+            "aliases": {
+                "PubgApi": "HardMode\\Pubgapi\\Facades\\PubgApi"
+            }
+        }
+    },
+    "license": "MIT",
+  
+    "authors": [
+        {
+            "name": "Erik Maier",
+            "email": "rkmaier@gmail.com"
+        }
+    ]
+}
