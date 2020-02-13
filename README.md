@@ -4,7 +4,7 @@
 
 ## Installation 
 
-` composer require hardmode/pubgapi `
+` composer require hardmode2015/pubgapi `
 
 ### Laravel 5.5+ Integration
 Laravel Pacakage discovery should take care of it
