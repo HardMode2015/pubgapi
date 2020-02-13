@@ -1,5 +1,5 @@
 <?php
-namespace HardMode\PubgApi\Facades;
+namespace hardmode2015\pubgapi\Facades;
 
 use \Illuminate\Support\Facades\Facade;
 
