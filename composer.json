@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hardmode2015\\Pubgapi\\": "src/"
+            "hardmode2015\\pubgapi\\": "src/"
         }
     },
     "extra": {
