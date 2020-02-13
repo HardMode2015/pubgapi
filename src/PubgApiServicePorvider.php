@@ -1,6 +1,6 @@
 <?php 
 
-namespace HardMode\Pubgapi;
+namespace hardmode2015\pubgapi;
 
 use Illuminate\Support\ServiceProvider;
 
