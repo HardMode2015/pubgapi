@@ -3,7 +3,7 @@
 namespace HardMode\Pubgapi;
 
 use IlluminateAgnostic\Collection\Support\Collection;
-use Rkmaier\PubgapiBaseService;
+use HardMode\PubgapiBaseService;
 
 
 class PubgApiService extends BaseService
